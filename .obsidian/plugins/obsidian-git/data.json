@@ -30,8 +30,8 @@
   ],
   "stagedChangesOnly": false,
   "commitStagedChangesOnly": false,
-  "pullOnStartup": false,
-  "pushOnStartup": false,
+  "pullOnStartup": true,
+  "pushOnStartup": true,
   "pullOnStartupSkipIfNoRemote": true,
   "pushOnStartupSkipIfNoRemote": true,
   "showDiffInSideBar": false
