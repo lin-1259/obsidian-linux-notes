@@ -4,5 +4,7 @@
   "omnisearch",
   "dataview",
   "calendar",
-  "i18n-plus"
+  "i18n-plus",
+  "lang-plus",
+  "mouse-tooltip-translator"
 ]

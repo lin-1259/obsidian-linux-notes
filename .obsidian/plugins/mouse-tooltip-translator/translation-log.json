@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "entries": {
+    "v2|bing|auto|zh-CN|tavily密钥": {
+      "sourceText": "tavily密钥",
+      "targetText": "tavily密钥",
+      "sourceLang": "en",
+      "targetLang": "zh-CN",
+      "pos": [],
+      "type": "sentence",
+      "count": 1,
+      "firstSeen": 1779181476380,
+      "lastSeen": 1779181476380
+    }
+  }
+}
