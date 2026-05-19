@@ -11,13 +11,14 @@
             "id": "e71255d03e467098",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "AI/Tavily.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Tavily"
             }
           }
         ]
@@ -195,10 +196,10 @@
   },
   "active": "e71255d03e467098",
   "lastOpenFiles": [
-    "AI/Tavily.md",
-    "创建链接.md",
-    "欢迎.md",
     "未命名.base",
+    "创建链接.md",
+    "AI/Tavily.md",
+    "欢迎.md",
     "AI"
   ]
 }
