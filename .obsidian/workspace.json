@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4232702dd00cecd7",
+        "id": "f67670ab89f54aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "e71255d03e467098",
+            "id": "4d80b72a99c4bf2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,9 +184,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "9d9a4615b5d69a41",
+            "type": "leaf",
+            "state": {
+              "type": "mtt-vocab-view",
+              "state": {},
+              "icon": "book-open",
+              "title": "Vocabulary"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -204,14 +214,17 @@
       "obsidian-git:Open Git source control": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "lang-plus:I18n+ Dictionary Manager": false,
+      "mouse-tooltip-translator:Open vocabulary list": false,
+      "mouse-tooltip-translator:Translate page / Restore": false
     }
   },
-  "active": "e71255d03e467098",
+  "active": "9d9a4615b5d69a41",
   "lastOpenFiles": [
+    "AI/Tavily.md",
     "未命名.base",
     "创建链接.md",
-    "AI/Tavily.md",
     "欢迎.md",
     "AI"
   ]
