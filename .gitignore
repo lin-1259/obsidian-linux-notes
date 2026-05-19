@@ -1,9 +1,21 @@
 # Obsidian
-.obsidian/app.json
-.obsidian/workspace.json
-.obsidian/community-plugins.json
-.obsidian/community-plugins/obsidian-git/data.json
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/data.json
+!.obsidian/plugins/**/styles.css
+!.obsidian/plugins/**/manifest.json
+!.obsidian/plugins/**/data.json
 
-# 系统文件
+# OS files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Temporary
+*.tmp
+*.bak
