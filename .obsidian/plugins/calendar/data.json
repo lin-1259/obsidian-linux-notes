@@ -1,10 +1,10 @@
 {
-  "shouldConfirmBeforeCreate": true,
+  "shouldConfirmBeforeCreate": false,
   "weekStart": "locale",
   "wordsPerDot": 250,
-  "showWeeklyNote": false,
-  "weeklyNoteFormat": "",
-  "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "",
-  "localeOverride": "system-default"
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "YYYY-MM-DD",
+  "weeklyNoteTemplate": "模板/日报.md",
+  "weeklyNoteFolder": "日记",
+  "localeOverride": "zh-CN"
 }

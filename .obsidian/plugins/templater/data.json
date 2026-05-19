@@ -1,0 +1,8 @@
+{
+  "commandTimeoutLimit": 5000,
+  "templateFolderPath": "\u6a21\u677f",
+  "askForTemplate": false,
+  "enableSystemCommands": false,
+  "enableQuickAdd": false,
+  "enableQuickAddV2": false
+}

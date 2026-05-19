@@ -3,5 +3,6 @@
   "templater-obsidian",
   "omnisearch",
   "dataview",
-  "calendar"
+  "calendar",
+  "i18n-plus"
 ]
